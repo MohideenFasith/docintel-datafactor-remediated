@@ -162,3 +162,5 @@ class InMemoryDocumentStore:
                 for chunk in chunks:
                     output.append((deepcopy(record), deepcopy(chunk)))
             return output
+
+# _ref-24139
