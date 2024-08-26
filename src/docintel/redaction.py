@@ -103,3 +103,5 @@ class Redactor:
             cursor = match.end
         parts.append(text[cursor:])
         return RedactionResult(text="".join(parts), redactions=matches)
+
+# _ref-78112
