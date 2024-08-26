@@ -64,3 +64,5 @@ class SlidingWindowRateLimiter:
                 raise RateLimitExceeded(str(retry_after))
             events.append(timestamp)
             return self.limit - len(events)
+
+# _ref-39855
