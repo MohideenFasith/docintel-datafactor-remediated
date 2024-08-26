@@ -27,3 +27,5 @@
 - Add pinned runtime dependencies, lint/type/coverage/security-audit CI gates, Make targets, expanded onboarding/architecture/security/operations documentation, and broad unit/API coverage.
 
 # _ref-44295
+
+# _ref-62246
