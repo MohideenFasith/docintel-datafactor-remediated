@@ -46,3 +46,5 @@ class SavedSearchStore:
         self.get(search_id, owner=owner)
         with self._lock:
             del self._items[search_id]
+
+# _ref-33377
