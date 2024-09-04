@@ -65,3 +65,5 @@ def test_search_analytics_api(client):
     assert client.get("/v1/admin/search-analytics").json()["total_searches"] == 0
 
 # _ref-10499
+
+# _ref-89392
