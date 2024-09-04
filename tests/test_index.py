@@ -52,3 +52,5 @@ def test_remove_document_removes_postings():
     assert index.search("uniqueunicornterm") == []
 
 # _ref-51024
+
+# _ref-39420
