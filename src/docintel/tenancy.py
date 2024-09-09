@@ -63,3 +63,5 @@ class TenantQuotaManager:
             return next_usage
 
 # _ref-44728
+
+# _ref-34247
