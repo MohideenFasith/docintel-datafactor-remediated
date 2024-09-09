@@ -28,3 +28,5 @@ def test_collection_rejects_duplicate_names_and_missing_documents(client):
     assert client.put(f"/v1/collections/{collection_id}/documents/missing").status_code == 404
 
 # _ref-55156
+
+# _ref-46050
