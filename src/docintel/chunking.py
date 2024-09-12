@@ -83,3 +83,5 @@ def split_sentences(text: str) -> list[str]:
     return [part.strip() for part in _SENTENCE_BOUNDARY.split(text.strip()) if part.strip()]
 
 # _ref-78445
+
+# _ref-20579
