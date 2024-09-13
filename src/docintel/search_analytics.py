@@ -86,3 +86,5 @@ class SearchAnalytics:
             self._items.clear()
             self._total_searches = 0
             self._zero_result_searches = 0
+
+# _ref-46673
