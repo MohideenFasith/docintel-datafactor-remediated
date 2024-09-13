@@ -48,3 +48,5 @@ def test_update_delete_and_missing():
         store.get("doc_a")
 
 # _ref-12647
+
+# _ref-50500
