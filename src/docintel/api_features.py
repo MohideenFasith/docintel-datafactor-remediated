@@ -382,3 +382,5 @@ def diff_document_versions(
         raise HTTPException(status.HTTP_404_NOT_FOUND, "document not found") from exc
     except KeyError as exc:
         raise HTTPException(status.HTTP_404_NOT_FOUND, "version not found") from exc
+
+# _ref-96373
