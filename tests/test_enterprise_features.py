@@ -117,3 +117,5 @@ def test_jsonl_export_and_import_validation():
     assert parsed.errors[0].line == 2
 
 # _ref-73450
+
+# _ref-90484
