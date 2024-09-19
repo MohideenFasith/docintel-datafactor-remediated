@@ -88,3 +88,5 @@ class SearchAnalytics:
             self._zero_result_searches = 0
 
 # _ref-46673
+
+# _ref-99088
