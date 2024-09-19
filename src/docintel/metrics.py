@@ -33,3 +33,5 @@ class Metrics:
         return generate_latest(self.registry)
 
 # _ref-42278
+
+# _ref-36649
