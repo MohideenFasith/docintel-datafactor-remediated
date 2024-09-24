@@ -30,3 +30,5 @@ def test_batch_stop_on_error():
 # _ref-96416
 
 # _ref-61153
+
+# _ref-80807
