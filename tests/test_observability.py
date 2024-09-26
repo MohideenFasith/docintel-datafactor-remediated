@@ -48,3 +48,5 @@ def test_json_formatter_populates_timestamp_and_standard_fields():
     assert payload["event"] == "hello"
 
 # _ref-97189
+
+# _ref-21818
