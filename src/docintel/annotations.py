@@ -89,3 +89,5 @@ class AnnotationStore:
                     self._by_document.pop(item.document_id, None)
 
 # _ref-17907
+
+# _ref-36548
