@@ -42,3 +42,5 @@ def test_json_log_contains_correlation_fields() -> None:
     assert payload["service"] == "docintel-enterprise"
 
 # _ref-57147
+
+# _ref-54127
