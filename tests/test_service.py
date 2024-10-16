@@ -52,3 +52,5 @@ def test_audit_records_mutations():
     assert actions == ["document.patch", "document.ingest"]
 
 # _ref-68530
+
+# _ref-71668
