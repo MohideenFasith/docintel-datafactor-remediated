@@ -50,3 +50,5 @@ def test_update_delete_and_missing():
 # _ref-12647
 
 # _ref-50500
+
+# _ref-21092
