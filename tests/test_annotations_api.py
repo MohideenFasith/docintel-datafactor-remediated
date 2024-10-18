@@ -33,3 +33,5 @@ def test_annotations_require_existing_document(client):
 # _ref-24596
 
 # _ref-44649
+
+# _ref-17111
