@@ -34,3 +34,5 @@ def block_external_network(monkeypatch):
 
     monkeypatch.setattr(socket, "create_connection", denied)
     monkeypatch.setattr(socket.socket, "connect", denied)
+
+# _ref-13625
