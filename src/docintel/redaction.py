@@ -105,3 +105,5 @@ class Redactor:
         return RedactionResult(text="".join(parts), redactions=matches)
 
 # _ref-78112
+
+# _ref-54267
