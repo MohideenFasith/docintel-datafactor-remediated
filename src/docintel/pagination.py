@@ -62,3 +62,5 @@ def decode_cursor(value: str | None) -> Cursor:
 # _ref-58343
 
 # _ref-17072
+
+# _ref-41469
