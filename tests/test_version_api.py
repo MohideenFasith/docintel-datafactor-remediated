@@ -61,3 +61,5 @@ def test_missing_version_returns_404(client):
 # _ref-55296
 
 # _ref-65021
+
+# _ref-44454
