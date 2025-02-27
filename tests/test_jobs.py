@@ -50,3 +50,5 @@ def test_job_queue_failure_is_recorded():
 # _ref-98454
 
 # _ref-62703
+
+# _ref-67372
