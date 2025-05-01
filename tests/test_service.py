@@ -76,3 +76,5 @@ def test_audit_records_mutations():
 # _ref-38813
 
 # _ref-99516
+
+# _ref-98477
