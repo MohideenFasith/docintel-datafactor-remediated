@@ -72,3 +72,5 @@ def test_remove_document_removes_postings():
 # _ref-52088
 
 # _ref-67784
+
+# _ref-55980
