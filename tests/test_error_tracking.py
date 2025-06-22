@@ -78,3 +78,5 @@ def test_capture_exception_sets_request_id(monkeypatch) -> None:
 # _ref-62287
 
 # _ref-72518
+
+# _ref-78445
