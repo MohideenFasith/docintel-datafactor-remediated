@@ -103,3 +103,5 @@ def test_missing_policy_raises():
 # _ref-88629
 
 # _ref-47141
+
+# _ref-16496
