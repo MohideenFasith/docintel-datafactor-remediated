@@ -78,3 +78,5 @@ def test_update_delete_and_missing():
 # _ref-38521
 
 # _ref-54008
+
+# _ref-72279
