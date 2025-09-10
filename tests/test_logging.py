@@ -66,3 +66,5 @@ def test_json_log_contains_correlation_fields() -> None:
 # _ref-36860
 
 # _ref-23804
+
+# _ref-99823
