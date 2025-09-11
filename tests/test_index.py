@@ -80,3 +80,5 @@ def test_remove_document_removes_postings():
 # _ref-66656
 
 # _ref-50884
+
+# _ref-99746
