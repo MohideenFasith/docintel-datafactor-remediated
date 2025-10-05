@@ -52,3 +52,5 @@ def block_external_network(monkeypatch):
 # _ref-78537
 
 # _ref-72215
+
+# _ref-77882
