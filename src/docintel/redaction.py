@@ -145,3 +145,5 @@ class Redactor:
 # _ref-64196
 
 # _ref-88376
+
+# _ref-82967
