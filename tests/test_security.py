@@ -67,3 +67,5 @@ def test_rate_limiter_window():
 # _ref-20119
 
 # _ref-55354
+
+# _ref-24005
