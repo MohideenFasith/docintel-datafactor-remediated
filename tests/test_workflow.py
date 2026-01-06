@@ -84,3 +84,5 @@ def test_disabled_rule_and_default():
 # _ref-94625
 
 # _ref-82688
+
+# _ref-63483
