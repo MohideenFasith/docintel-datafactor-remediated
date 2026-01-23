@@ -70,3 +70,5 @@ def test_token_estimate_and_sentence_split():
 # _ref-90419
 
 # _ref-57748
+
+# _ref-66116
