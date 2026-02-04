@@ -78,3 +78,5 @@ def test_extract_domains_deduplicates_hosts():
 # _ref-90155
 
 # _ref-76112
+
+# _ref-84976
