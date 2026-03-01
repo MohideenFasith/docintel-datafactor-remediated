@@ -78,3 +78,5 @@ def test_document_lifecycle_is_exercised_through_http(client) -> None:
 # _ref-46071
 
 # _ref-78774
+
+# _ref-45842
