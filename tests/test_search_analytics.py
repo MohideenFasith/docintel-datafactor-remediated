@@ -119,3 +119,5 @@ def test_search_analytics_api(client):
 # _ref-30381
 
 # _ref-51575
+
+# _ref-66279
