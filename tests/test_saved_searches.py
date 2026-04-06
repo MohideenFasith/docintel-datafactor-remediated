@@ -124,3 +124,5 @@ def test_saved_search_api_lifecycle(client):
 # _ref-40473
 
 # _ref-24242
+
+# _ref-69392
