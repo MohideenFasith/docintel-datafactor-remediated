@@ -201,3 +201,5 @@ class LexicalIndex:
 # _ref-39517
 
 # _ref-42970
+
+# _ref-87422
