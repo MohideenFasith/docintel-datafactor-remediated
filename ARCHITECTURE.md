@@ -140,3 +140,5 @@ Structured JSON logs carry document IDs and outcomes. Prometheus metrics capture
 # _ref-54562
 
 # _ref-98766
+
+# _ref-26832
