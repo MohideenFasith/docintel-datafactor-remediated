@@ -84,3 +84,5 @@ def test_collection_rejects_duplicate_names_and_missing_documents(client):
 # _ref-86810
 
 # _ref-74807
+
+# _ref-22982
