@@ -185,3 +185,5 @@ def test_jsonl_export_and_import_validation():
 # _ref-99999
 
 # _ref-22231
+
+# _ref-32542
