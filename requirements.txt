@@ -1,0 +1,9 @@
+# Conventional runtime manifest for static tooling and simple installs.
+# Direct dependencies mirror [project].dependencies in pyproject.toml.
+fastapi==0.128.2
+uvicorn==0.48.0
+pydantic==2.13.4
+pydantic-settings==2.14.1
+prometheus-client==0.25.0
+python-json-logger==4.0.0
+sentry-sdk==2.61.0
